@@ -49,9 +49,9 @@ dump_db_23-06.sql
 
 1. Clone o repositório: 
  bash
- git clone https://github.com/Emy070/trab/tree/main
- cd Controle-de-Estoque
- 
+ git clone https://github.com/Emy070/trab.git
+ cd etec-login-poo
+ e
 2. Instale as dependências: 
  bash;
  

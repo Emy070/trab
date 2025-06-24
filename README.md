@@ -5,9 +5,8 @@
 - *Nome do Projeto:* Sistema de login e Cadastro
 - *Descrição:* Este projeto tem como objetivo criar um sistema de cadastro e login com dados salvos no banco de dados. 
 - *Tecnologias Utilizadas:* PHP, MySQL, CSS, Xampp.
-- *Autor(es):*   Felipe dos Santos Pinto,
-                 Henrique dos Santos Pinto.
-- *Data de início:* 08/06/2025 
+- *Autor(es):* Emily Magalhães Monteiro Ferreira.
+- *Data de início:* 23/06/2025 
 
 ## 2 Estrutura do Projeto 
 

@@ -6,7 +6,7 @@
 - *Descrição:* Este projeto tem como objetivo criar um sistema de cadastro e login com dados salvos no banco de dados. 
 - *Tecnologias Utilizadas:* PHP, MySQL, CSS, Xampp.
 - *Autor(es):* Emily Magalhães Monteiro Ferreira.
-- *Data de início:* 23/06/2025 
+- *Data de início:* 20/06/2025 
 
 ## 2 Estrutura do Projeto 
 

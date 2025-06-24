@@ -49,7 +49,7 @@ dump_db_23-06.sql
 
 1. Clone o repositório: 
  bash
- git clone https://github.com/FelipeSantos1423/Proj_fabiano.git
+ git clone https://github.com/Emy070/trab/tree/main
  cd Controle-de-Estoque
  
 2. Instale as dependências: 
